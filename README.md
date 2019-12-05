@@ -20,12 +20,13 @@ conda install numpy
 You can clone the repo with the usual command
 
 ```
-git clone "https://github.com/..."
+git clone https://github.com/mawlo/coin-distribution.git
 ```
 
 ## Versioning
 
-[SemVer](http://semver.org/) will be used in future. For the versions available, see the [tags on this repository](https://github.com/mawlo/coin_distribution/tags). 
+[SemVer](http://semver.org/) will be used in future. For the versions available,
+see the [tags on this repository](https://github.com/mawlo/coin-distribution/tags). 
 
 ## Authors
 
